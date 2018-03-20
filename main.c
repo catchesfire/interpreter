@@ -1,4 +1,6 @@
-int main(){
-    printf("HELLO");
+#include <stdio.h>
+
+
+int main(int argc, char **argv[]){
+    printf("Basic application \n");
 }
-CHUJ CI W DUPÊ
